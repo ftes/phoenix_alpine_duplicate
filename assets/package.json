@@ -1,0 +1,6 @@
+{
+  "name": "alpine_duplicate",
+  "devDependencies": {
+    "alpinejs": "^3.5.1"
+  }
+}
